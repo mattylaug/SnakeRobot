@@ -1,0 +1,8 @@
+# Ignore Visual Studio files
+*.VC
+*.pdb
+*.ilk
+*.exe
+
+# Ignore log files 
+*.log
